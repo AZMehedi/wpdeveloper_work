@@ -1,0 +1,65 @@
+.h-200{ height: 200px }
+.h-600{ height: 600px }
+.mh-50{ height: 50px }
+.h-250{ height: 250px }
+.h-40{ height: 40px }
+.h-150{ height: 150px }
+.h-400{ height: 400px }
+
+.fontcolor
+{
+
+    color: #926239;
+}
+.fontsize
+{
+    font-size:50px;
+}
+.fontsize-two
+{
+    font-size:22px;
+}
+.div-one
+{
+    background-image: url('http://traversymedia.com/downloads/assets/beachshowcase.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    position: relative;
+}
+.beachcontent{
+    padding-top: 19%;
+    padding-left: 25%;
+    font-weight: bold;
+}
+div button
+{
+    position: relative;
+    left: 40%;
+}
+
+.btn-outline-light
+{
+    border-color: #926239;
+    color: #926239;
+}
+.btn-outline-light:hover
+{
+    background-color: #926239;
+    color: white;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.bg-chocolateWhite
+{
+    background-color: #926239;
+    color: white;
+}
+div p
+{
+    margin: 12px 12px 0px 12px;
+}
