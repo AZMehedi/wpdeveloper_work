@@ -30,7 +30,7 @@ if (isset($_GET['page']))
 elseif (isset($_POST['logBtn']))
 {
     $pass = $_POST['pass'];
-    $db_name = "mysql:host=localhost; dbname=wpdeveloper";
+    $db_name = "mysql:host=localhost; dbname=wpdev";
     $username = "root";
     $password = "";
 
@@ -61,7 +61,7 @@ elseif (isset($_POST['regBtn']))
     $name = $_POST['name'];
     $pass = $_POST['pass'];
     $email = $_POST['email'];
-    $db_name = "mysql:host=localhost; dbname=wpdeveloper";
+    $db_name = "mysql:host=localhost; dbname=wpdev";
     $username = "root";
     $password = "";
 
